@@ -1,0 +1,6 @@
+{
+  "name": "SpecTrace — Industrial Spec Selection Workbench",
+  "description": "Deterministic industrial product intelligence and specification selection workbench with SQL predicate filtering, hybrid contextual RAG with page-level citations, revision-controlled PDF ingestion, and engineering sign-off dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
